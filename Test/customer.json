@@ -1,0 +1,8 @@
+{
+      "category": "customer",
+      "name": "John Doe",
+      "email": "john@example.com",
+      "password": "test123",
+      "contactNumber": "9876543210"
+    }
+    
